@@ -5,6 +5,7 @@ body {
   background-color:'white';
 }
 
+
 html {
   background-color: #270237;
   /* background-image: url(/img/stars.svg), url(/img/asteriod2.svg),
@@ -18,7 +19,11 @@ html {
 }
 
 body {
+  background-color:'white';
+
   position: relative;
+  background-color:'white';
+
   max-width: 600px;
   margin: 0 auto;
   padding: 20px;
