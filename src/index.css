@@ -5,9 +5,8 @@ body {
   background-color:'white';
 }
 
-
 html {
-  background-color: #270237;
+ /* background-color: #270237;*/
   /* background-image: url(/img/stars.svg), url(/img/asteriod2.svg),
     url(/img/asteriod1.svg), url(/img/bg.svg); */
   background-image: url(/img/stars.svg), url(/img/bg.svg);
@@ -19,8 +18,6 @@ html {
 }
 
 body {
-  background-color:'white';
-
   position: relative;
   background-color:'white';
 
